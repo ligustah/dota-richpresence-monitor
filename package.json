@@ -1,0 +1,23 @@
+{
+  "name": "dota-scene-selector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.0",
+    "clockmaker": "^2.0.0",
+    "config": "^1.17.1",
+    "dota2": "^1.0.1",
+    "parsimmon": "^0.7.0",
+    "robotjs": "^0.3.6",
+    "steam": "^1.3.0",
+    "vapor": "^1.0.0"
+  },
+  "devDependencies": {}
+}

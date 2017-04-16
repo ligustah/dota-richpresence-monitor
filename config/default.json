@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": "<your steam id here>",
+      "binds": {
+        "#DOTA_RP_INIT" : ["control", "f5"],
+        "#DOTA_RP_SPECTATING": "f6",
+		"#DOTA_RP_FINDING_MATCH": ["alt", "f7"],
+        "#DOTA_RP_LOBBY_CUSTOM": "f7",
+        "#DOTA_RP_GAME_IN_PROGRESS_CUSTOM": "f8"
+      }
+    }
+  ],
+  "steam": {
+    "username": "<bot steam username>",
+    "password": "<password>",
+    "displayName": "<display name>"
+  }
+}
